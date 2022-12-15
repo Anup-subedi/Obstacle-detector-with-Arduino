@@ -1,8 +1,8 @@
 // defines pins numbers
-const int trigPin = 9;
+const int trigPin = 9; 
 const int echoPin = 10;
-const int buzzer = 11;
-const int ledPin = 13;
+const int buzzer = 11; 
+const int ledPin = 13; //the positive terminal of led is put in no.13 and other is in gnd.
 
 // defines variables
 long duration;
